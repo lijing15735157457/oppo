@@ -1,0 +1,135 @@
+/*
+* @Author: Administrator
+* @Date:   2018-01-24 09:34:20
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-01-24 09:56:13
+*/
+.box_zheng{
+	width: 400px;
+	height: 810px;
+	background: #e2e2e2;
+	border-radius: 40px;
+	border: 6px solid #9e8e82;
+	float: left;
+}
+.zheng_shang{
+	width: 400px;
+	height: 82px;
+	background: #e2e2e2;
+	border-top-left-radius: 40px;
+	border-top-right-radius: 40px;
+}
+.zheng_shangzuo{
+	width: 18px;
+	height: 18px;
+	background: #090909;
+	border-radius: 50%;
+	float: left;
+	margin-top: 30px;
+	margin-left: 96px;
+}
+.zheng_shangzhong{
+	width: 70px;
+	height: 8px;
+	background: #090909;
+	border-radius: 40px;
+	float: left;
+	margin-top: 35px;
+	margin-left: 48px;
+}
+.zheng_shangyou{
+	width: 18px;
+	height: 8px;
+	background: #090909;
+	border-radius: 40px;
+	float: right;
+	margin-top: 35px;
+	margin-right: 119px;
+}
+.zheng_zhong{
+	width: 400px;
+	height: 648px;
+	background: #e2e2e2;
+}
+.zheng_zhong1{
+	width: 370px;
+	height: 648px;
+	background: #000000;
+	border-radius: 5px;
+	margin: 0 auto; 
+}
+.zheng_xia{
+	width: 400px;
+	height: 80px;
+	background: #e2e2e2;
+	border-bottom-left-radius: 40px;
+	border-bottom-right-radius: 40px;
+	overflow: hidden;
+}
+.zheng_xiazhong{
+	width: 68px;
+	height: 32px;
+	background: #e2e2e2;
+	border-radius: 40px;
+	margin: 0 auto;
+	margin-top: 15px;
+	border: 4px solid #67625d;
+}
+.box_fan{
+	width: 400px;
+	height: 810px;
+	background: #eed0b4;
+	border-radius: 40px;
+	border: 6px solid #9e8e82;
+	margin-left: 500px;
+}
+.fan_shang{
+	width: 400px;
+	height: 56px;
+	background: #eed0b4;
+	border-top-left-radius: 40px;
+	border-top-right-radius: 40px;
+}
+.fan_shangzuo{
+	width: 44px;
+	height: 44px;
+	background: #000000;
+	border-radius: 50%;
+	margin-top: 10px;
+	margin-left: 60px;
+	float: left;
+}
+.fan_shangyou{
+	width: 22px;
+	height: 22px;
+	background: #ffffff;
+	border-radius: 50%;
+	margin-top: 21px;
+	margin-left: 30px;
+	float: left;
+}
+.fan_tiao{
+	width: 400px;
+	height: 6px;
+	background: #fce1cc;
+}
+.fan_zhong{
+	width: 400px;
+	height: 690px;
+	background: #eed0b4;
+	overflow: hidden;
+}
+.fan_zhongoppo{
+	width: 146px;
+	height: 28px;
+	background: #000000;
+	margin: 0 auto;
+	margin-top: 154px;
+}
+.fan_xia{
+	width: 400px;
+	height: 52px;
+	background: #eed0b4;
+	border-bottom-left-radius: 40px;
+	border-bottom-right-radius: 40px;
+}
